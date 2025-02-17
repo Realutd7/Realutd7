@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm [Saish]
 
 ## 🎓 About Me
 I'm a college student passionate about technology and engineering. When I'm not coding or working on projects, you can find me on the football field or enjoying a good movie.
@@ -29,7 +29,6 @@ I'm a college student passionate about technology and engineering. When I'm not 
 - 🌱 Always learning and expanding my technical skills
 
 ## 📫 How to reach me
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [saishpatil2228@gmail.coml]
 
 ---
